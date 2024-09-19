@@ -1,0 +1,30 @@
+
+Training LfF ours...
+  0%|                                                                                                   | 0/50000 [00:00<?, ?it/s]
+
+
+
+
+
+
+  1%|▉                                                                                        | 497/50000 [00:14<16:30, 49.96it/s]
+ 20%|██████████████████▊                                                                           | 4/20 [00:00<00:00, 16.53it/s]
+
+
+
+
+
+  2%|█▊                                                                                       | 995/50000 [00:26<17:30, 46.65it/s]
+
+
+  2%|██                                                                                      | 1141/50000 [00:33<23:37, 34.47it/s]
+Traceback (most recent call last):
+  File "/mnt/sdd/Debiasing/BiasEdit/train/train.py", line 88, in <module>
+    learner.train_lff(args=args)
+  File "/mnt/sdd/Debiasing/BiasEdit/train/learner_base.py", line 565, in train_lff
+    loss.backward()
+  File "/mnt/sdc/zungwooker/anaconda3/envs/gene/lib/python3.9/site-packages/torch/_tensor.py", line 522, in backward
+    torch.autograd.backward(
+  File "/mnt/sdc/zungwooker/anaconda3/envs/gene/lib/python3.9/site-packages/torch/autograd/__init__.py", line 266, in backward
+    Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+KeyboardInterrupt

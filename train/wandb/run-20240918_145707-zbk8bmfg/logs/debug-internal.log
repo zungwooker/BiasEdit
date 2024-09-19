@@ -1,0 +1,18 @@
+{"time":"2024-09-18T14:57:07.54867611+09:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-18T14:57:07.548697231+09:00","level":"INFO","msg":"created symlink","path":"/mnt/sdd/Debiasing/BiasEdit/train/wandb/run-20240918_145707-zbk8bmfg/logs/debug-core.log"}
+{"time":"2024-09-18T14:57:07.548761657+09:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-18T14:57:07.548768646+09:00","level":"INFO","msg":"created symlink","path":"/mnt/sdd/Debiasing/BiasEdit/train/wandb/run-20240918_145707-zbk8bmfg/logs/debug-core.log"}
+{"time":"2024-09-18T14:57:07.552034135+09:00","level":"INFO","msg":"created new stream","id":"zbk8bmfg"}
+{"time":"2024-09-18T14:57:07.552062302+09:00","level":"INFO","msg":"stream: started","id":"zbk8bmfg"}
+{"time":"2024-09-18T14:57:07.552098111+09:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"zbk8bmfg"}}
+{"time":"2024-09-18T14:57:07.552069887+09:00","level":"INFO","msg":"handler: started","stream_id":{"value":"zbk8bmfg"}}
+{"time":"2024-09-18T14:57:07.552072921+09:00","level":"INFO","msg":"sender: started","stream_id":{"value":"zbk8bmfg"}}
+{"time":"2024-09-18T14:57:07.995157387+09:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-18T14:57:07.996234284+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-18T14:57:30.406768676+09:00","level":"INFO","msg":"stream: closing","id":"zbk8bmfg"}
+{"time":"2024-09-18T14:57:30.406808197+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-09-18T14:57:30.407067437+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-09-18T14:57:33.963450394+09:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"zbk8bmfg"}}
+{"time":"2024-09-18T14:57:33.963546368+09:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"zbk8bmfg"}}
+{"time":"2024-09-18T14:57:33.963536268+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"zbk8bmfg"}}
+{"time":"2024-09-18T14:57:33.963697911+09:00","level":"INFO","msg":"stream: closed","id":"zbk8bmfg"}

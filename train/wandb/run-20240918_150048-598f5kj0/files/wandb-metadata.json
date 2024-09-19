@@ -1,0 +1,36 @@
+{
+  "os": "Linux-5.15.0-116-generic-x86_64-with-glibc2.31",
+  "python": "3.9.0",
+  "startedAt": "2024-09-18T06:00:48.031500Z",
+  "args": [
+    "--dataset",
+    "cmnist",
+    "--pct",
+    "0.5pct",
+    "--base",
+    "--train_lff_be",
+    "--projcode",
+    "Baselines CMNIST",
+    "--run_name",
+    "lff_be",
+    "--seed",
+    "0",
+    "--wandb",
+    "--data_dir",
+    "/mnt/sdd/Debiasing/benchmarks",
+    "--gpu_num",
+    "6"
+  ],
+  "program": "/mnt/sdd/Debiasing/BiasEdit/train/train.py",
+  "codePath": "train/train.py",
+  "git": {
+    "remote": "git@github.com:zungwooker/BiasEdit.git",
+    "commit": "775c1488e9bcde4b2fd00723304cf90185c863b8"
+  },
+  "email": "zungwooker@hanyang.ac.kr",
+  "root": "/mnt/sdd/Debiasing/BiasEdit/train",
+  "host": "super",
+  "username": "zungwooker",
+  "executable": "/mnt/sdc/zungwooker/anaconda3/envs/gene/bin/python",
+  "codePathLocal": "train.py"
+}

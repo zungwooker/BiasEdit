@@ -1,0 +1,10 @@
+Training LfF with BiasEnsemble ours...
+0th model working...
+Traceback (most recent call last):
+  File "/mnt/sdd/Debiasing/BiasEdit/train/train.py", line 90, in <module>
+    learner.train_lff_be(args=args)
+  File "/mnt/sdd/Debiasing/BiasEdit/train/learner_base.py", line 590, in train_lff_be
+    pseudo_align_flag = self.pretrain_b_ensemble_best(args)
+  File "/mnt/sdd/Debiasing/BiasEdit/train/learner_base.py", line 340, in pretrain_b_ensemble_best
+    self.model_b = get_backbone(self.model, self.num_classes, args=self.args, pretrained=self.args.resnet_pretrained, first_stage=True).to(self.device)
+AttributeError: 'Namespace' object has no attribute 'resnet_pretrained'

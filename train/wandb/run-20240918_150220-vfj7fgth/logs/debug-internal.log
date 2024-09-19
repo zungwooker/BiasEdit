@@ -1,0 +1,18 @@
+{"time":"2024-09-18T15:02:20.451641083+09:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-18T15:02:20.451654997+09:00","level":"INFO","msg":"created symlink","path":"/mnt/sdd/Debiasing/BiasEdit/train/wandb/run-20240918_150220-vfj7fgth/logs/debug-core.log"}
+{"time":"2024-09-18T15:02:20.451692453+09:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-18T15:02:20.451696341+09:00","level":"INFO","msg":"created symlink","path":"/mnt/sdd/Debiasing/BiasEdit/train/wandb/run-20240918_150220-vfj7fgth/logs/debug-core.log"}
+{"time":"2024-09-18T15:02:20.454025649+09:00","level":"INFO","msg":"created new stream","id":"vfj7fgth"}
+{"time":"2024-09-18T15:02:20.454044587+09:00","level":"INFO","msg":"stream: started","id":"vfj7fgth"}
+{"time":"2024-09-18T15:02:20.454057305+09:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"vfj7fgth"}}
+{"time":"2024-09-18T15:02:20.454064042+09:00","level":"INFO","msg":"handler: started","stream_id":{"value":"vfj7fgth"}}
+{"time":"2024-09-18T15:02:20.454088109+09:00","level":"INFO","msg":"sender: started","stream_id":{"value":"vfj7fgth"}}
+{"time":"2024-09-18T15:02:20.894560227+09:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-18T15:02:20.896031025+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-18T15:08:13.680154914+09:00","level":"INFO","msg":"stream: closing","id":"vfj7fgth"}
+{"time":"2024-09-18T15:08:13.680191812+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-09-18T15:08:13.680469776+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-09-18T15:08:15.175806484+09:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"vfj7fgth"}}
+{"time":"2024-09-18T15:08:15.175923029+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"vfj7fgth"}}
+{"time":"2024-09-18T15:08:15.175943565+09:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"vfj7fgth"}}
+{"time":"2024-09-18T15:08:15.176052175+09:00","level":"INFO","msg":"stream: closed","id":"vfj7fgth"}

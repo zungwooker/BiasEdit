@@ -1,0 +1,29 @@
+2024-09-18 14:38:58,063 INFO    MainThread:222198 [wandb_setup.py:_flush():76] Current SDK version is 0.17.0
+2024-09-18 14:38:58,064 INFO    MainThread:222198 [wandb_setup.py:_flush():76] Configure stats pid to 222198
+2024-09-18 14:38:58,064 INFO    MainThread:222198 [wandb_setup.py:_flush():76] Loading settings from /home/zungwooker/.config/wandb/settings
+2024-09-18 14:38:58,064 INFO    MainThread:222198 [wandb_setup.py:_flush():76] Loading settings from /mnt/sdd/Debiasing/BiasEdit/train/wandb/settings
+2024-09-18 14:38:58,064 INFO    MainThread:222198 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2024-09-18 14:38:58,064 INFO    MainThread:222198 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2024-09-18 14:38:58,064 INFO    MainThread:222198 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'train/train.py', 'program_abspath': '/mnt/sdd/Debiasing/BiasEdit/train/train.py', 'program': '/mnt/sdd/Debiasing/BiasEdit/train/train.py'}
+2024-09-18 14:38:58,064 INFO    MainThread:222198 [wandb_setup.py:_flush():76] Applying login settings: {}
+2024-09-18 14:38:58,064 INFO    MainThread:222198 [wandb_init.py:_log_setup():520] Logging user logs to /mnt/sdd/Debiasing/BiasEdit/train/wandb/run-20240918_143858-24hqpd9c/logs/debug.log
+2024-09-18 14:38:58,064 INFO    MainThread:222198 [wandb_init.py:_log_setup():521] Logging internal logs to /mnt/sdd/Debiasing/BiasEdit/train/wandb/run-20240918_143858-24hqpd9c/logs/debug-internal.log
+2024-09-18 14:38:58,064 INFO    MainThread:222198 [wandb_init.py:init():560] calling init triggers
+2024-09-18 14:38:58,065 INFO    MainThread:222198 [wandb_init.py:init():567] wandb.init called with sweep_config: {}
+config: {}
+2024-09-18 14:38:58,065 INFO    MainThread:222198 [wandb_init.py:init():610] starting backend
+2024-09-18 14:38:58,065 INFO    MainThread:222198 [wandb_init.py:init():614] setting up manager
+2024-09-18 14:38:58,067 INFO    MainThread:222198 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=fork,spawn,forkserver, using: fork
+2024-09-18 14:38:58,073 INFO    MainThread:222198 [wandb_init.py:init():622] backend started and connected
+2024-09-18 14:38:58,075 INFO    MainThread:222198 [wandb_init.py:init():711] updated telemetry
+2024-09-18 14:38:58,096 INFO    MainThread:222198 [wandb_init.py:init():744] communicating run to backend with 90.0 second timeout
+2024-09-18 14:38:58,801 INFO    MainThread:222198 [wandb_run.py:_on_init():2396] communicating current version
+2024-09-18 14:38:58,849 INFO    MainThread:222198 [wandb_run.py:_on_init():2405] got version response upgrade_message: "wandb version 0.18.1 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2024-09-18 14:38:58,850 INFO    MainThread:222198 [wandb_init.py:init():795] starting run threads in backend
+2024-09-18 14:39:05,516 INFO    MainThread:222198 [wandb_run.py:_console_start():2374] atexit reg
+2024-09-18 14:39:05,517 INFO    MainThread:222198 [wandb_run.py:_redirect():2229] redirect: wrap_raw
+2024-09-18 14:39:05,517 INFO    MainThread:222198 [wandb_run.py:_redirect():2294] Wrapping output streams.
+2024-09-18 14:39:05,517 INFO    MainThread:222198 [wandb_run.py:_redirect():2319] Redirects installed.
+2024-09-18 14:39:05,519 INFO    MainThread:222198 [wandb_init.py:init():838] run started, returning control to user process
+2024-09-18 14:40:24,308 WARNING MsgRouterThr:222198 [router.py:message_loop():77] message_loop has been closed

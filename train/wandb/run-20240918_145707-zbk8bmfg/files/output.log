@@ -1,0 +1,8 @@
+Training LfF ours...
+  2%|█▊                                                                                       | 988/50000 [00:22<18:13, 44.83it/s]
+Traceback (most recent call last):                                                                                                
+  File "/mnt/sdd/Debiasing/BiasEdit/train/train.py", line 88, in <module>
+    learner.train_lff(args=args)
+  File "/mnt/sdd/Debiasing/BiasEdit/train/learner_base.py", line 543, in train_lff
+    loss_b[class_index] /= max_loss_b
+KeyboardInterrupt

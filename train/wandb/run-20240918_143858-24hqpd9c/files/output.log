@@ -1,0 +1,50 @@
+training vanilla ours...
+valid_d: 0.10099999606609344 || test_d: 0.10089999437332153
+
+
+
+  1%|▉                                                                                        | 495/50000 [00:09<12:26, 66.29it/s]
+  0%|                                                                                                      | 0/20 [00:00<?, ?it/s]
+500 model saved...
+
+
+
+
+
+  2%|█▊                                                                                      | 1013/50000 [00:19<36:06, 22.61it/s]
+
+
+
+  3%|██▋                                                                                     | 1498/50000 [00:27<18:03, 44.76it/s]
+  0%|                                                                                                      | 0/40 [00:00<?, ?it/s]
+
+
+
+
+  4%|███▍                                                                                    | 1983/50000 [00:36<11:01, 72.64it/s]
+
+
+
+
+  5%|████▍                                                                                   | 2497/50000 [00:45<10:43, 73.82it/s]
+ 55%|███████████████████████████████████████████████████▏                                         | 22/40 [00:00<00:00, 50.60it/s]
+
+
+
+  6%|█████▎                                                                                  | 2999/50000 [00:54<16:07, 48.57it/s]
+  0%|                                                                                                      | 0/20 [00:00<?, ?it/s]
+
+
+
+
+
+  7%|██████▏                                                                                 | 3528/50000 [01:04<22:35, 34.29it/s]
+
+
+  8%|██████▉                                                                                 | 3932/50000 [01:10<13:45, 55.83it/s]
+Traceback (most recent call last):
+  File "/mnt/sdd/Debiasing/BiasEdit/train/train.py", line 86, in <module>
+    learner.train_vanilla(args=args)
+  File "/mnt/sdd/Debiasing/BiasEdit/train/learner_base.py", line 473, in train_vanilla
+    attr = attr.to(self.device)
+KeyboardInterrupt
