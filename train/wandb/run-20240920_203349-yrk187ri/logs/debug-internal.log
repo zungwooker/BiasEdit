@@ -1,0 +1,18 @@
+{"time":"2024-09-20T20:33:49.449577956+09:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-20T20:33:49.449592151+09:00","level":"INFO","msg":"created symlink","path":"/mnt/sdd/Debiasing/BiasEdit/train/wandb/run-20240920_203349-yrk187ri/logs/debug-core.log"}
+{"time":"2024-09-20T20:33:49.449631822+09:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-20T20:33:49.449635318+09:00","level":"INFO","msg":"created symlink","path":"/mnt/sdd/Debiasing/BiasEdit/train/wandb/run-20240920_203349-yrk187ri/logs/debug-core.log"}
+{"time":"2024-09-20T20:33:49.459969264+09:00","level":"INFO","msg":"created new stream","id":"yrk187ri"}
+{"time":"2024-09-20T20:33:49.459990139+09:00","level":"INFO","msg":"stream: started","id":"yrk187ri"}
+{"time":"2024-09-20T20:33:49.460033918+09:00","level":"INFO","msg":"handler: started","stream_id":{"value":"yrk187ri"}}
+{"time":"2024-09-20T20:33:49.460127199+09:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"yrk187ri"}}
+{"time":"2024-09-20T20:33:49.460309881+09:00","level":"INFO","msg":"sender: started","stream_id":{"value":"yrk187ri"}}
+{"time":"2024-09-20T20:33:49.872312835+09:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-20T20:33:49.874881376+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-20T20:55:00.753326218+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-09-20T20:55:00.753742527+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-09-20T20:55:03.364497905+09:00","level":"INFO","msg":"stream: closing","id":"yrk187ri"}
+{"time":"2024-09-20T20:55:03.364532114+09:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"yrk187ri"}}
+{"time":"2024-09-20T20:55:03.364570745+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"yrk187ri"}}
+{"time":"2024-09-20T20:55:03.364625541+09:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"yrk187ri"}}
+{"time":"2024-09-20T20:55:03.364698006+09:00","level":"INFO","msg":"stream: closed","id":"yrk187ri"}

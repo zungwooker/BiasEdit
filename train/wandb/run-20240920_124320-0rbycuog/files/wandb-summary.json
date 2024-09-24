@@ -1,0 +1,1 @@
+{"_runtime":3329.253639852,"_wandb":{"runtime":3329},"test/accs_d":0.5560000538825989,"_timestamp":1.7268071296568956e+09,"valid/best_acc_b":0,"valid/best_acc_d":0.999000072479248,"test/best_acc_d":0.6180000305175781,"test/best_acc_b":0,"Iter step":50000,"valid/accs_d":0.9930000305175781,"_step":100}

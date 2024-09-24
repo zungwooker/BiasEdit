@@ -1,0 +1,18 @@
+{"time":"2024-09-20T21:16:44.08108786+09:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-20T21:16:44.081112204+09:00","level":"INFO","msg":"created symlink","path":"/mnt/sdd/Debiasing/BiasEdit/train/wandb/run-20240920_211644-orxtyzr7/logs/debug-core.log"}
+{"time":"2024-09-20T21:16:44.08118305+09:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-20T21:16:44.081190959+09:00","level":"INFO","msg":"created symlink","path":"/mnt/sdd/Debiasing/BiasEdit/train/wandb/run-20240920_211644-orxtyzr7/logs/debug-core.log"}
+{"time":"2024-09-20T21:16:44.084672164+09:00","level":"INFO","msg":"created new stream","id":"orxtyzr7"}
+{"time":"2024-09-20T21:16:44.084700398+09:00","level":"INFO","msg":"stream: started","id":"orxtyzr7"}
+{"time":"2024-09-20T21:16:44.084744131+09:00","level":"INFO","msg":"sender: started","stream_id":{"value":"orxtyzr7"}}
+{"time":"2024-09-20T21:16:44.084745691+09:00","level":"INFO","msg":"handler: started","stream_id":{"value":"orxtyzr7"}}
+{"time":"2024-09-20T21:16:44.084736098+09:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"orxtyzr7"}}
+{"time":"2024-09-20T21:16:44.531149611+09:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-20T21:16:44.532280766+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-20T21:33:03.557042874+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-09-20T21:33:03.557471935+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-09-20T21:33:08.850776218+09:00","level":"INFO","msg":"stream: closing","id":"orxtyzr7"}
+{"time":"2024-09-20T21:33:08.850804042+09:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"orxtyzr7"}}
+{"time":"2024-09-20T21:33:08.850838948+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"orxtyzr7"}}
+{"time":"2024-09-20T21:33:08.850845732+09:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"orxtyzr7"}}
+{"time":"2024-09-20T21:33:08.850947908+09:00","level":"INFO","msg":"stream: closed","id":"orxtyzr7"}

@@ -1,0 +1,1 @@
+{"_step":100,"Iter step":50000,"_runtime":952.803065674,"test/accs_d":0.6890999674797058,"valid/best_acc_b":0,"_timestamp":1.7268375247452567e+09,"valid/accs_d":0.9893999695777893,"_wandb":{"runtime":952},"test/best_acc_b":0,"valid/best_acc_d":0.9929999709129333,"test/best_acc_d":0.7178999781608582}

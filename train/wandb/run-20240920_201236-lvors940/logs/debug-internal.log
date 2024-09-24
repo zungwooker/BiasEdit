@@ -1,0 +1,18 @@
+{"time":"2024-09-20T20:12:36.694330951+09:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-20T20:12:36.694362236+09:00","level":"INFO","msg":"created symlink","path":"/mnt/sdd/Debiasing/BiasEdit/train/wandb/run-20240920_201236-lvors940/logs/debug-core.log"}
+{"time":"2024-09-20T20:12:36.694458314+09:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-20T20:12:36.694470441+09:00","level":"INFO","msg":"created symlink","path":"/mnt/sdd/Debiasing/BiasEdit/train/wandb/run-20240920_201236-lvors940/logs/debug-core.log"}
+{"time":"2024-09-20T20:12:36.696748999+09:00","level":"INFO","msg":"created new stream","id":"lvors940"}
+{"time":"2024-09-20T20:12:36.69677157+09:00","level":"INFO","msg":"stream: started","id":"lvors940"}
+{"time":"2024-09-20T20:12:36.696800179+09:00","level":"INFO","msg":"sender: started","stream_id":{"value":"lvors940"}}
+{"time":"2024-09-20T20:12:36.696794077+09:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"lvors940"}}
+{"time":"2024-09-20T20:12:36.696802757+09:00","level":"INFO","msg":"handler: started","stream_id":{"value":"lvors940"}}
+{"time":"2024-09-20T20:12:37.0673849+09:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-20T20:12:37.068694767+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-20T20:33:41.284737965+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-09-20T20:33:41.289347659+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-09-20T20:33:43.849382362+09:00","level":"INFO","msg":"stream: closing","id":"lvors940"}
+{"time":"2024-09-20T20:33:43.84943292+09:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"lvors940"}}
+{"time":"2024-09-20T20:33:43.849498496+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"lvors940"}}
+{"time":"2024-09-20T20:33:43.849529217+09:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"lvors940"}}
+{"time":"2024-09-20T20:33:43.849636319+09:00","level":"INFO","msg":"stream: closed","id":"lvors940"}

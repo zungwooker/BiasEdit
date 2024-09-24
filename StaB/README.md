@@ -1,0 +1,2 @@
+# GeneBC
+Generate BC samples

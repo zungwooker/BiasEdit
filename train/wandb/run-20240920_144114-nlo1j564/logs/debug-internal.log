@@ -1,0 +1,18 @@
+{"time":"2024-09-20T14:41:14.777376594+09:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-20T14:41:14.777399152+09:00","level":"INFO","msg":"created symlink","path":"/mnt/sdd/Debiasing/BiasEdit/train/wandb/run-20240920_144114-nlo1j564/logs/debug-core.log"}
+{"time":"2024-09-20T14:41:14.777479671+09:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-20T14:41:14.77748744+09:00","level":"INFO","msg":"created symlink","path":"/mnt/sdd/Debiasing/BiasEdit/train/wandb/run-20240920_144114-nlo1j564/logs/debug-core.log"}
+{"time":"2024-09-20T14:41:14.780841619+09:00","level":"INFO","msg":"created new stream","id":"nlo1j564"}
+{"time":"2024-09-20T14:41:14.78086963+09:00","level":"INFO","msg":"stream: started","id":"nlo1j564"}
+{"time":"2024-09-20T14:41:14.78091027+09:00","level":"INFO","msg":"sender: started","stream_id":{"value":"nlo1j564"}}
+{"time":"2024-09-20T14:41:14.78091653+09:00","level":"INFO","msg":"handler: started","stream_id":{"value":"nlo1j564"}}
+{"time":"2024-09-20T14:41:14.780891364+09:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"nlo1j564"}}
+{"time":"2024-09-20T14:41:15.144355475+09:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-20T14:41:15.145621177+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-20T15:44:40.327815303+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-09-20T15:44:40.328076865+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-09-20T15:44:42.784469729+09:00","level":"INFO","msg":"stream: closing","id":"nlo1j564"}
+{"time":"2024-09-20T15:44:42.784493406+09:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"nlo1j564"}}
+{"time":"2024-09-20T15:44:42.784521424+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"nlo1j564"}}
+{"time":"2024-09-20T15:44:42.784571243+09:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"nlo1j564"}}
+{"time":"2024-09-20T15:44:42.784634922+09:00","level":"INFO","msg":"stream: closed","id":"nlo1j564"}

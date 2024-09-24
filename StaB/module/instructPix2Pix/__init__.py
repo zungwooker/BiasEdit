@@ -1,0 +1,1 @@
+from .instructPix2Pix import IP2P

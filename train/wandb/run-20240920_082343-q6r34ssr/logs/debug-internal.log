@@ -1,0 +1,20 @@
+{"time":"2024-09-20T08:23:43.861167403+09:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-20T08:23:43.86119129+09:00","level":"INFO","msg":"created symlink","path":"/mnt/sdd/Debiasing/BiasEdit/train/wandb/run-20240920_082343-q6r34ssr/logs/debug-core.log"}
+{"time":"2024-09-20T08:23:43.8612837+09:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-20T08:23:43.861291396+09:00","level":"INFO","msg":"created symlink","path":"/mnt/sdd/Debiasing/BiasEdit/train/wandb/run-20240920_082343-q6r34ssr/logs/debug-core.log"}
+{"time":"2024-09-20T08:23:43.864808295+09:00","level":"INFO","msg":"created new stream","id":"q6r34ssr"}
+{"time":"2024-09-20T08:23:43.864839553+09:00","level":"INFO","msg":"stream: started","id":"q6r34ssr"}
+{"time":"2024-09-20T08:23:43.864876007+09:00","level":"INFO","msg":"handler: started","stream_id":{"value":"q6r34ssr"}}
+{"time":"2024-09-20T08:23:43.864877099+09:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"q6r34ssr"}}
+{"time":"2024-09-20T08:23:43.864881956+09:00","level":"INFO","msg":"sender: started","stream_id":{"value":"q6r34ssr"}}
+{"time":"2024-09-20T08:23:44.342821656+09:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-20T08:23:44.344441859+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-20T08:27:00.213773359+09:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/zungwooker-hy-hanyang-university/BiasEdit%20bffhq/q6r34ssr/file_stream"}
+{"time":"2024-09-20T09:02:18.1949388+09:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/zungwooker-hy-hanyang-university/BiasEdit%20bffhq/q6r34ssr/file_stream"}
+{"time":"2024-09-20T10:32:43.685295183+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-09-20T10:32:43.685751697+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-09-20T10:32:46.157833826+09:00","level":"INFO","msg":"stream: closing","id":"q6r34ssr"}
+{"time":"2024-09-20T10:32:46.157860959+09:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"q6r34ssr"}}
+{"time":"2024-09-20T10:32:46.15787975+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"q6r34ssr"}}
+{"time":"2024-09-20T10:32:46.157894584+09:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"q6r34ssr"}}
+{"time":"2024-09-20T10:32:46.157986114+09:00","level":"INFO","msg":"stream: closed","id":"q6r34ssr"}
